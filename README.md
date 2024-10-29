@@ -1,2 +1,2 @@
-# testmacbuildvars
+# hellocmake
 Test project to see what MacOS version macros existed at build time.
